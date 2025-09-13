@@ -1,1 +1,3 @@
-https://github.com/EMPTY032/posmotri-v-okno-fd.git
+# Посмотри в окно
+проект позволяющий увидеть разные города россии в разное время
+https://empty032.github.io/posmotri-v-okno-fd/
